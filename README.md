@@ -1,4 +1,4 @@
-# accessibleLinksReplacer
+# Accessible Links Replacer
 A Chrome extension that uses OpenAI to replace links with a more accessible version.
 
 This is just a proof of concept to highlight the simplicity of the task thanks to the power of LLMs.
